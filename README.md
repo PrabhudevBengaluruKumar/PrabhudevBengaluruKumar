@@ -1,5 +1,7 @@
 👋 Hi, I’m Prabhudev Bengaluru Kumar
+
 🌱 I’m currently pursing masters in Germany
+
 💞️ I’m looking to collaborate on Deep learning, Machine learning, Natural language processing projects
 📫 You can reach me on LinkedIn [Prabhudev Bengaluru Kumar](https://www.linkedin.com/in/prabhudev-bengaluru-kumar/)
 <!--             👀 I’m interested in ... -->
